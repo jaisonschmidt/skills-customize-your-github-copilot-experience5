@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-api",
+      "title": "Construindo APIs REST com FastAPI",
+      "description": "Aprenda a criar uma API REST simples utilizando FastAPI. Implemente um CRUD de tarefas.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2025-09-23",
+      "attachments": [
+        {
+          "name": "Código Inicial",
+          "file": "main.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
